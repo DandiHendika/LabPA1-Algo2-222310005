@@ -4,7 +4,6 @@
 
 using namespace std;
 
-// Deklarasi fungsi untuk Bubble Sort
 void mainsorting(string arr[], int n);
 
 int main() {
